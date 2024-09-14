@@ -1,2 +1,2 @@
 ﻿# 65DSD-threads
-Farei o trabalho 2 sozinha
+Dupla: Nathália Acordi e Diogo Sardagna
